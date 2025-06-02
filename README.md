@@ -16,7 +16,7 @@ Dashboard para o administrador
 # 👤 Acesso do Administrador
 E-mail: admin@admin.com
 
-Senha: adm
+Senha: 123
 
 # 📌 Observações
 Este projeto tem caráter exclusivamente acadêmico e não deve ser utilizado em ambientes de produção.
